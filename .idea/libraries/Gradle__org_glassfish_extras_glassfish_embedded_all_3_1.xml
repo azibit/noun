@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.extras:glassfish-embedded-all:3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.extras/glassfish-embedded-all/3.1/1048ac9dbe9d66488f64e43b2dc598bfab0185bc/glassfish-embedded-all-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.extras/glassfish-embedded-all/3.1/72335894cefe80f96650f0412dad479fa42abe6d/glassfish-embedded-all-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

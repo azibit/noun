@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.core:arquillian-core-spi:1.1.5.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-spi/1.1.5.Final/arquillian-core-spi-1.1.5.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.core/arquillian-core-spi/1.1.5.Final/c3b84e89cd8246ae95dab615074c12ace5346ee9/arquillian-core-spi-1.1.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.core/arquillian-core-spi/1.1.5.Final/27a09fe3e43665d7c394cdd7b34e09beb02a7479/arquillian-core-spi-1.1.5.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

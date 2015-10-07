@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.extension:arquillian-drone-spi:2.0.0.Alpha3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-drone-spi/2.0.0.Alpha3/f5d92bfd75b4bc526fb917d6061b0d26b3451033/arquillian-drone-spi-2.0.0.Alpha3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-drone-spi/2.0.0.Alpha3/a76b6bc9130e87d601854090365890f39cf60683/arquillian-drone-spi-2.0.0.Alpha3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

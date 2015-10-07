@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.extension:arquillian-drone-webdriver:2.0.0.Alpha3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-drone-webdriver/2.0.0.Alpha3/35ae2111db5dac8418950f3b0c89b1d5e7e6a294/arquillian-drone-webdriver-2.0.0.Alpha3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-drone-webdriver/2.0.0.Alpha3/f29a16031416c2841f91d0d403c30f8e4215df03/arquillian-drone-webdriver-2.0.0.Alpha3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

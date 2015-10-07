@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.extension:arquillian-phantom-driver:1.1.3.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-phantom-driver/1.1.3.Final/8f424d1603dba45e08fb7d2a991892c3a04dad4d/arquillian-phantom-driver-1.1.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.extension/arquillian-phantom-driver/1.1.3.Final/b8fac5f2a8c26926f02f5b39043096cb2d555e11/arquillian-phantom-driver-1.1.3.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.graphene:graphene-webdriver-spi:2.1.0.Alpha2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.graphene/graphene-webdriver-spi/2.1.0.Alpha2/aff43a0e6a17465606518268106ad420fb7ec795/graphene-webdriver-spi-2.1.0.Alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.graphene/graphene-webdriver-spi/2.1.0.Alpha2/7e22bc58aba350b52f9db9ba7801df95bf0248c5/graphene-webdriver-spi-2.1.0.Alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
